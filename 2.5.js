@@ -1,5 +1,4 @@
 
-
 let i = prompt("What is your favourite number ?");
 
 while (i!==42){
@@ -8,6 +7,5 @@ while (i!==42){
         break;
     }
 }
-  
   
 
